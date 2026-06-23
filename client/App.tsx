@@ -15,7 +15,7 @@ import { ThemeProvider } from "./components/ThemeProvider";
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
-    <ThemeProvider defaultTheme="system" storageKey="anshika-theme">
+    <ThemeProvider defaultTheme="system" storageKey="Aditya-theme">
       <TooltipProvider>
         <Toaster />
         <Sonner />

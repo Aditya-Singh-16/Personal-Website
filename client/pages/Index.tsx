@@ -31,7 +31,7 @@ export default function Index() {
       icon: <BookOpen className="h-6 w-6" />,
       color: "from-emerald-500 to-teal-600",
       liveLink: "https://bookstore-9o9y.vercel.app/",
-      githubLink: "https://github.com/AnshikaSahu157/bookstore"
+      githubLink: "https://github.com/Aditya-Singh-16/bookstore"
     },
     {
       title: "Hire Hub",
@@ -41,7 +41,7 @@ export default function Index() {
       icon: <Users className="h-6 w-6" />,
       color: "from-blue-500 to-cyan-600",
       liveLink: "https://hire-hub-x6k3.vercel.app/",
-      githubLink: "https://github.com/AnshikaSahu157/HIRE-HUB"
+      githubLink: "https://github.com/Aditya-Singh-16/HIRE-HUB"
     }
   ];
 

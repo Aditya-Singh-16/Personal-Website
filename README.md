@@ -1,6 +1,6 @@
 # 🌐 Personal Website
 
-**Author:** Anshika Sahu  
+**Author:** Aditya Singh  
 
 ---
 
@@ -74,7 +74,7 @@ The website is fully responsive and optimized for performance.
 1️⃣ Clone the repository
 ```
 bash
-git clone https://github.com/AnshikaSahu157/your-repo-name.git
+git clone https://github.com/Aditya-Singh-16/your-repo-name.git
 ```
 2️⃣ Navigate to project folder
 ```

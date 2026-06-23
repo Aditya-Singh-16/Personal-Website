@@ -22,7 +22,7 @@ export default function Header() {
               <div className="w-10 h-10 bg-gradient-to-br from-primary to-brand-600 rounded-lg flex items-center justify-center text-white font-bold text-lg shadow-lg group-hover:shadow-xl group-hover:scale-105 transition-all duration-300">
                 AS
               </div>
-              <span className="text-xl font-semibold text-gray-900 dark:text-white transition-colors duration-300">Anshika Sahu</span>
+              <span className="text-xl font-semibold text-gray-900 dark:text-white transition-colors duration-300">Aditya Singh</span>
             </a>
           </div>
 
@@ -42,7 +42,7 @@ export default function Header() {
           {/* Social Links & Contact Button */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="https://github.com/AnshikaSahu157"
+              href="https://github.com/Aditya-Singh-16"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-all duration-200 hover:scale-110"
@@ -50,7 +50,7 @@ export default function Header() {
               <Github className="h-5 w-5" />
             </a>
             <a
-              href="https://www.linkedin.com/in/anshika-sahu-a20a56271/"
+              href="https://www.linkedin.com/in/Aditya-sahu-a20a56271/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-all duration-200 hover:scale-110"
@@ -59,7 +59,7 @@ export default function Header() {
             </a>
             <ThemeToggle />
             <Button asChild size="sm" className="shadow-lg hover:shadow-xl transition-all duration-300">
-              <a href="mailto:anshika15032004@gmail.com?subject=Let's Connect&body=Hi Anshika,%0D%0A%0D%0AI'd love to connect with you!">
+              <a href="mailto:avis28134@gmail.com?subject=Let's Connect&body=Hi Aditya,%0D%0A%0D%0AI'd love to connect with you!">
                 Get In Touch
                 <ExternalLink className="ml-2 h-4 w-4" />
               </a>
@@ -94,7 +94,7 @@ export default function Header() {
               ))}
               <div className="flex items-center space-x-4 px-3 py-2">
                 <a
-                  href="https://github.com/AnshikaSahu157"
+                  href="https://github.com/Aditya-Singh-16"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors duration-200"
@@ -102,7 +102,7 @@ export default function Header() {
                   <Github className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/anshika-sahu-a20a56271/"
+                  href="https://www.linkedin.com/in/Aditya-sahu-a20a56271/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors duration-200"
@@ -113,7 +113,7 @@ export default function Header() {
               </div>
               <div className="px-3 py-2">
                 <Button asChild size="sm" className="w-full">
-                  <a href="mailto:anshika15032004@gmail.com?subject=Let's Connect&body=Hi Anshika,%0D%0A%0D%0AI'd love to connect with you!">Get In Touch</a>
+                  <a href="mailto:avis28134@gmail.com?subject=Let's Connect&body=Hi Aditya,%0D%0A%0D%0AI'd love to connect with you!">Get In Touch</a>
                 </Button>
               </div>
             </div>
